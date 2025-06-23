@@ -15,8 +15,5 @@
   },
   "changelogUrl": "https://projects.voltstro.dev/UnityWebBrowser/latest/changelog/",
   "documentationUrl": "https://projects.voltstro.dev/UnityWebBrowser/latest/articles/user/engines/#cef-engine",
-  "licensesUrl": "https://github.com/Voltstro-Studios/UnityWebBrowser/blob/master/LICENSE.md",
-  "dependencies": {
-    "dev.voltstro.unitywebbrowser.engine.cef": "2.2.6"
-  }
+  "licensesUrl": "https://github.com/Voltstro-Studios/UnityWebBrowser/blob/master/LICENSE.md"
 }
